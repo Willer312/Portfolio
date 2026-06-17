@@ -647,7 +647,7 @@ function App() {
           </a>
 
           <a
-            href="public\files\RM IEEE Reformatted.pdf"
+            href="href="/files/RM IEEE Reformatted.pdf""
             target="_blank"
             rel="noopener noreferrer"
             onMouseEnter={() => playHoverSound()}

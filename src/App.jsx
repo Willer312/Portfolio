@@ -647,7 +647,7 @@ function App() {
           </a>
 
           <a
-            href="./files/RM IEEE Reformatted.pdf"
+            href="https://drive.google.com/file/d/1Cz-XsLXqaxeIeAZB3sbIOzzZtnwLb2cu/view?usp=sharing"
             target="_blank"
             rel="noopener noreferrer"
             onMouseEnter={() => playHoverSound()}
